@@ -1,5 +1,8 @@
-Twitter Clone Front-End Wireframes
-Login / Signup Page
+# Twitter Clone Front-End Wireframes
+
+## 1. Login / Signup Page
+
+```text
 +--------------------------------------+
 |          Twitter Clone               |
 |--------------------------------------|
@@ -13,7 +16,11 @@ Login / Signup Page
 |        [ Sign Up ]                   |
 |                                      |
 +--------------------------------------+
-Home Feed Page
+```
+
+## 2. Home Feed Page
+
+```text
 +--------------------------------------------------+
 | Navbar: Home | Profile | Logout                  |
 +--------------------------------------------------+
@@ -29,7 +36,11 @@ Home Feed Page
 | Another tweet appears here.                      |
 | [View Profile]                                   |
 +--------------------------------------------------+
-User Profile Page
+```
+
+## 3. User Profile Page
+
+```text
 +--------------------------------------------------+
 | Navbar: Home | Profile | Logout                  |
 +--------------------------------------------------+
@@ -43,13 +54,21 @@ User Profile Page
 +--------------------------------------------------+
 | Tweet 2                                          |
 +--------------------------------------------------+
-Tweet Component
+```
+
+## 4. Tweet Component
+
+```text
 +--------------------------------------------------+
 | @username                                        |
 | Tweet content goes here.                         |
 | [Profile] [Delete]                               |
 +--------------------------------------------------+
-App Flow
+```
+
+## 5. App Flow
+
+```text
 Login / Signup
       |
       v
@@ -64,3 +83,4 @@ Home Feed
       |-- Post tweet
       |-- Delete own tweet
       |-- Logout
+```
